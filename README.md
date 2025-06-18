@@ -1,16 +1,40 @@
-## Hi there 👋
+---------------------------
+👋 Hi, I'm Abheesht Tripathi
 
-<!--
-**abhi12337/abhi12337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 M.Tech from NIT Kurukshetra | B.Tech from NSUT West Campus  
+💼 Backend Developer | DevOps Engineer | Cloud Enthusiast  
+🛠️ Golang | Python | Node.js | Docker | Kubernetes | React | AWS
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💡 What I Do
+
+- 🔧 Build scalable backend systems and APIs  
+- 🐳 Containerize apps and automate CI/CD pipelines  
+- 📊 Optimize performance, reliability & testing  
+- 🤖 Experiment with LLMs for AI-driven code analysis and solution generation  
+- 🧪 Develop full-stack apps and developer tooling (Replit-style IDE, Job Portals, Practice Platforms)
+
+---
+
+🌐 Projects
+
+- 🔐 Cloud IDE – Secure multi-user code editor with Docker & Kubernetes  
+- ⚙️ CI/CD Framework – Reduced deployment time by 40% via automation  
+- 🧠 Codeforces LLM Fine-Tuning – AI model to suggest solutions based on problems  
+- 💻 Interview Practice Platform – Full-stack app to simulate real backend interviews
+
+---
+
+📫 How to Reach Me
+
+- ✉️ abheesht.tripathi@gmail.com  
+- 💼 LinkedIn  
+- 💻 Portfolio
+
+---
+
+📊 GitHub Stats (Optional)
+
+(Here a stats image would show up if used)
+---------------------------
