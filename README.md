@@ -3,7 +3,7 @@
 
 🎓 M.Tech from NIT Kurukshetra | B.Tech from NSUT West Campus  
 💼 Backend Developer | DevOps Engineer | Cloud Enthusiast  
-🛠️ Golang | Python | Node.js | Docker | Kubernetes | React | AWS
+🛠️ Golang | Python | Node.js | Docker | Kubernetes | React | AWS | React Native | Azure | 
 
 ---
 
@@ -29,12 +29,6 @@
 📫 How to Reach Me
 
 - ✉️ abheesht.tripathi@gmail.com  
-- 💼 LinkedIn  
-- 💻 Portfolio
+
 
 ---
-
-📊 GitHub Stats (Optional)
-
-(Here a stats image would show up if used)
----------------------------
