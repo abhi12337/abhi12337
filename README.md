@@ -1,9 +1,20 @@
 ## Hi, I'm Abheesht Tripathi 👋
 
-**I find and fix security holes in AI apps and agents**, and build backends that hold up in production.
+**I build, secure and scale AI and backend systems, and I make them compliant.**
 AI & Backend Engineer · Go · Python · Node.js · Postgres · Docker · Kubernetes · AWS · Azure
 
 🎓 M.Tech, NIT Kurukshetra · B.Tech, NSUT West Campus
+
+---
+
+### 🔬 Research
+
+| Study | Result |
+|---|---|
+| **8,761 live Shopify stores** checked for apps still loading through script tags, which Shopify stops on 1 March 2027 | **48.6%** (4,256 stores) still load at least one. [Free checker](https://check.storecheck.workers.dev/?ref=github) · [every app seen on 5+ stores](https://check.storecheck.workers.dev/apps/?ref=github) |
+| **25 popular open-source Supabase projects** (about 240K GitHub stars combined), every finding read by hand | **3 of 22** real apps had a policy that let other people read or change users' data. Being reported privately to the maintainers, not named |
+
+Security findings in other people's code go to the maintainers privately first. I only publish totals.
 
 ---
 
@@ -30,8 +41,6 @@ Static checkers that print the exact fix and fail CI. Standard library only, MIT
 
 ### 💼 Work with me
 
-- **Quick Review**: top 5 problems in your app with exact fixes, in 48 hours. $149 / ₹9,999
-- **AI agent security check**: every tool, permission and data path tested against prompt injection, written report and fixes in 5 working days. $1,500
-- **Backend and AI builds**: APIs, integrations, Postgres, queues, LLM features. Fixed price
+I review and fix AI agents and backends: agent tool permissions, Supabase and Firebase access rules, Postgres performance, webhooks and queues, and Shopify script-tag migrations. Fixed scope, fixed price, written results.
 
-📫 abheeshttripathi890@gmail.com
+📫 abheeshttripathi890@gmail.com · 𝕏 [@AbheeshtTr10795](https://x.com/AbheeshtTr10795)
