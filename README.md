@@ -11,6 +11,7 @@ AI & Backend Engineer · Go · Python · Node.js · Postgres · Docker · Kubern
 
 | Study | Result |
 |---|---|
+| **[MCP Safety Board](https://mcp-safety-board.pages.dev)**: popular open-source MCP servers graded A–F on safety hygiene (tool safety labels, pinned installs, risky config), every grade checked by hand | Only **5 of 191** pin the version in their install instructions. [Check your own MCP setup](https://mcp-safety-board.pages.dev/check) · [request a re-check](https://github.com/abhi12337/mcp-safety-board) |
 | **8,761 live Shopify stores** checked for apps still loading through script tags, which Shopify stops on 1 March 2027 | **48.6%** (4,256 stores) still load at least one. [Free checker](https://check.storecheck.workers.dev/?ref=github) · [every app seen on 5+ stores](https://check.storecheck.workers.dev/apps/?ref=github) |
 | **25 popular open-source Supabase projects** (about 240K GitHub stars combined), every finding read by hand | **3 of 22** real apps had a policy that let other people read or change users' data. Being reported privately to the maintainers, not named |
 
